@@ -1,4 +1,4 @@
-# Developing a Neural Network Classification Model
+# EX2 Developing a Neural Network Classification Model
 
 ## AIM
 
@@ -13,8 +13,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-
-Include the neural network model diagram.
+![image](https://github.com/vidhyasrikachapalayam/nn-classification/assets/119477817/2fe06aa7-0498-4c0e-8842-9d9e66d02648)
 
 ## DESIGN STEPS
 STEP 1:
@@ -279,25 +278,24 @@ with open('customer_data.pickle', 'rb') as fh:
 ```
 
 ## Dataset Information
+![image](https://github.com/vidhyasrikachapalayam/nn-classification/assets/119477817/805d0f79-1b70-4bad-89a9-2dfef6d5039e)
 
-Include screenshot of the dataset
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-Include your plot here
+![image](https://github.com/vidhyasrikachapalayam/nn-classification/assets/119477817/65225aea-8eb1-442f-8a62-6260a7307be6)
 
 ### Classification Report
-
-Include Classification Report here
+![image](https://github.com/vidhyasrikachapalayam/nn-classification/assets/119477817/15e0ef79-da0b-4991-b057-8695a8a2a49e)
 
 ### Confusion Matrix
+![image](https://github.com/vidhyasrikachapalayam/nn-classification/assets/119477817/0772882b-f1e8-4b18-a589-b3bdf78b41c8)
 
-Include confusion matrix here
 
 
 ### New Sample Data Prediction
+![image](https://github.com/vidhyasrikachapalayam/nn-classification/assets/119477817/def1d2de-a209-433d-910d-68a6c1389bfa)
 
-Include your sample input and output here
 
 ## RESULT
-Include your result here
+A neural network classification model is developed for the given dataset.
